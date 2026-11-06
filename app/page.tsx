@@ -186,7 +186,7 @@ const LORENZO: StatTableData = {
             [
               "Location",
               [
-                "I recently moved to West Palm Beach, Florida, a city that clears the 70% bar on my environmental scorecard (see ",
+                "I’m moving to New York City, graded on my environmental scorecard (see ",
                 <WikiLink key="sp" href="/lifestyle#space">Space</WikiLink>,
                 ")",
               ],

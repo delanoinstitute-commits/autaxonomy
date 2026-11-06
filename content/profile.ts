@@ -263,7 +263,7 @@ export const INFOBOX: InfoboxGroup[] = [
       {
         label: "About",
         labelHref: "/",
-        values: [{ text: "West Palm Beach, available" }],
+        values: [{ text: "New York City, available" }],
       },
       {
         label: "Lifestyle",
